@@ -20,7 +20,7 @@ A polished, professional portfolio showcasing the projects, design work, and tec
 
 If you have a live site, add it here:
 
-Live site: https://your-portfolio.example.com
+Live site: https://portfolio-main-hdts.vercel.app
 
 Replace with your actual deployment URL.
 
@@ -150,10 +150,9 @@ This repository's content is © 2025 Koustav41. Replace with an explicit license
 
 ## Contact & Social
 
-- Email: your-email@example.com
+- Email: mkoustav03@gmail.com
 - GitHub: https://github.com/Koustav41
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-- Twitter: https://twitter.com/yourhandle
+- LinkedIn: https://www.linkedin.com/in/koustav-mukherjee-40554b32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
